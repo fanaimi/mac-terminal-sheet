@@ -69,8 +69,8 @@ https://github.com/0nn0/terminal-mac-cheatsheet/wiki/Terminal-Cheatsheet-for-Mac
 | touch [file] | Create new file |
 | pwd | Full path to working directory |
 | .. | Parent/enclosing directory, e.g. |
-| | 'ls -l ..' 	= Long listing of parent directory |
-| | 'cd ../../' = Move 2 levels up |
+| ls -l .. | Long listing of parent directory |
+| cd ../../ | Move 2 levels up |
 | . | Current folder |
 | cat | Concatenate to screen |
 | rm [file] | Remove a file, e.g. rm [file] [file] |
